@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal5 projects/lenivzep/Content/main_loc.umap",
+				"D:/unreal5 projects/lenivzep/Content/start_g.uasset",
+				"D:/unreal5 projects/lenivzep/Content/vodka_inter.uasset",
+				"D:/unreal5 projects/lenivzep/Content/MPlayer.uasset",
+				"D:/unreal5 projects/lenivzep/Content/MGamemode.uasset",
+				"D:/unreal5 projects/lenivzep/Content/vodka.uasset",
+				"D:/unreal5 projects/lenivzep/Content/vodka_place.uasset",
+				"D:/unreal5 projects/lenivzep/Content/raskumar_wd.uasset"
+			]
+		}
+	]
+}
